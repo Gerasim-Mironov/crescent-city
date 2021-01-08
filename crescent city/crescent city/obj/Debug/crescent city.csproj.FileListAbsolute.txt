@@ -1,0 +1,11 @@
+C:\Users\antol\cs\azure\crescent city\crescent city\crescent city\bin\Debug\crescent city.exe.config
+C:\Users\antol\cs\azure\crescent city\crescent city\crescent city\bin\Debug\crescent city.exe
+C:\Users\antol\cs\azure\crescent city\crescent city\crescent city\bin\Debug\crescent city.pdb
+C:\Users\antol\cs\azure\crescent city\crescent city\crescent city\obj\Debug\crescent city.csprojAssemblyReference.cache
+C:\Users\antol\cs\azure\crescent city\crescent city\crescent city\obj\Debug\crescent_city.Form1.resources
+C:\Users\antol\cs\azure\crescent city\crescent city\crescent city\obj\Debug\crescent_city.greetings.resources
+C:\Users\antol\cs\azure\crescent city\crescent city\crescent city\obj\Debug\crescent_city.Properties.Resources.resources
+C:\Users\antol\cs\azure\crescent city\crescent city\crescent city\obj\Debug\crescent city.csproj.GenerateResource.cache
+C:\Users\antol\cs\azure\crescent city\crescent city\crescent city\obj\Debug\crescent city.csproj.CoreCompileInputs.cache
+C:\Users\antol\cs\azure\crescent city\crescent city\crescent city\obj\Debug\crescent city.exe
+C:\Users\antol\cs\azure\crescent city\crescent city\crescent city\obj\Debug\crescent city.pdb

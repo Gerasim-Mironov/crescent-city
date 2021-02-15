@@ -67,6 +67,9 @@
             this.ClientSize = new System.Drawing.Size(384, 311);
             this.Controls.Add(this.duoButton);
             this.Controls.Add(this.soloButton);
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(400, 350);
+            this.MinimumSize = new System.Drawing.Size(400, 350);
             this.Name = "greetings";
             this.Text = "greetings";
             this.ResumeLayout(false);
